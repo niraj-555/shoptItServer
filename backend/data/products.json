@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Macbook air (2015)",
+        
+        "price": "45.89",
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Macbook air (2015)",
+        "price": "45.89",
+        
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Macbook air (2015)",
+        "price": "45.89",
+        
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Macbook air (2015)",
+        "price": "45.89",
+        
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Macbook air (2015)",
+        "price": "45.89",
+        
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Macbook air (2015)",
+        "price": "45.89",
+        
+        "description": "Flaunting a thin and light frame, the Apple MacBook Air is ideal for everyday computing needs like emails, listening to music, browsing the Web and playing games.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "product/macbook-air-gold-select-201810_vcwe3j",
+            "url": "https://res.cloudinary.com/dvgpacntv/image/upload/v1640601347/product/macbook-air-gold-select-201810_vcwe3j.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Baburao",
+        "stock": 288,
+        "numOfReviews": "32",
+        "reviews": []
+    }
+]
